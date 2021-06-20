@@ -63,6 +63,10 @@ flutter:
         - asset: assets/fonts/gilroy/Gilroy-Medium.ttf
         - asset: assets/fonts/gilroy/Gilroy-Regular.ttf
         - asset: assets/fonts/gilroy/Gilroy-Light.otf
+    - family: ProductSans
+    - fonts:
+        - asset: assets/fonts/productsans/ProductSans-Regular.ttf
+        - asset: assets/fonts/productsans/ProductSans-Bold.ttf
 
   assets:
     - assets/images/slider1.png
